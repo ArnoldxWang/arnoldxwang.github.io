@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi My name is Arnold!
+
 
 ### More Information
+
+- I did data science stuff at BrainStation
+- Created a machine learning model that tracks and predicts housing prices
 
 A place to include any other types of information that you'd like to include about yourself.
 
